@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="prefs_name">prefs</string>
+    <string name="prefs_player_one_name">playerOneName</string>
+    <string name="prefs_player_two_name">playerTwoName</string>
+    <string name="prefs_player_one_score">playerOneScore</string>
+    <string name="prefs_player_two_score">playerTwoScore</string>
+    <string name="title_activity_score_history">ScoreHistory</string>
+</resources>
